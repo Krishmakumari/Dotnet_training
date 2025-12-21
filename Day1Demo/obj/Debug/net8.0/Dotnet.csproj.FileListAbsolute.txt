@@ -1,0 +1,14 @@
+C:\Users\Admin\Dotnet\Day1Demo\bin\Debug\net8.0\Dotnet.exe
+C:\Users\Admin\Dotnet\Day1Demo\bin\Debug\net8.0\Dotnet.deps.json
+C:\Users\Admin\Dotnet\Day1Demo\bin\Debug\net8.0\Dotnet.runtimeconfig.json
+C:\Users\Admin\Dotnet\Day1Demo\bin\Debug\net8.0\Dotnet.dll
+C:\Users\Admin\Dotnet\Day1Demo\bin\Debug\net8.0\Dotnet.pdb
+C:\Users\Admin\Dotnet\Day1Demo\obj\Debug\net8.0\Dotnet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Dotnet\Day1Demo\obj\Debug\net8.0\Dotnet.AssemblyInfoInputs.cache
+C:\Users\Admin\Dotnet\Day1Demo\obj\Debug\net8.0\Dotnet.AssemblyInfo.cs
+C:\Users\Admin\Dotnet\Day1Demo\obj\Debug\net8.0\Dotnet.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Dotnet\Day1Demo\obj\Debug\net8.0\Dotnet.dll
+C:\Users\Admin\Dotnet\Day1Demo\obj\Debug\net8.0\refint\Dotnet.dll
+C:\Users\Admin\Dotnet\Day1Demo\obj\Debug\net8.0\Dotnet.pdb
+C:\Users\Admin\Dotnet\Day1Demo\obj\Debug\net8.0\Dotnet.genruntimeconfig.cache
+C:\Users\Admin\Dotnet\Day1Demo\obj\Debug\net8.0\ref\Dotnet.dll
