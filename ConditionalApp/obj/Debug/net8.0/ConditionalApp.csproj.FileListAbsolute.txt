@@ -1,0 +1,14 @@
+C:\Users\Admin\Dotnet\ConditionalApp\obj\Debug\net8.0\ConditionalApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Dotnet\ConditionalApp\obj\Debug\net8.0\ConditionalApp.AssemblyInfoInputs.cache
+C:\Users\Admin\Dotnet\ConditionalApp\obj\Debug\net8.0\ConditionalApp.AssemblyInfo.cs
+C:\Users\Admin\Dotnet\ConditionalApp\obj\Debug\net8.0\ConditionalApp.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Dotnet\ConditionalApp\bin\Debug\net8.0\ConditionalApp.exe
+C:\Users\Admin\Dotnet\ConditionalApp\bin\Debug\net8.0\ConditionalApp.deps.json
+C:\Users\Admin\Dotnet\ConditionalApp\bin\Debug\net8.0\ConditionalApp.runtimeconfig.json
+C:\Users\Admin\Dotnet\ConditionalApp\bin\Debug\net8.0\ConditionalApp.dll
+C:\Users\Admin\Dotnet\ConditionalApp\bin\Debug\net8.0\ConditionalApp.pdb
+C:\Users\Admin\Dotnet\ConditionalApp\obj\Debug\net8.0\ConditionalApp.dll
+C:\Users\Admin\Dotnet\ConditionalApp\obj\Debug\net8.0\refint\ConditionalApp.dll
+C:\Users\Admin\Dotnet\ConditionalApp\obj\Debug\net8.0\ConditionalApp.pdb
+C:\Users\Admin\Dotnet\ConditionalApp\obj\Debug\net8.0\ConditionalApp.genruntimeconfig.cache
+C:\Users\Admin\Dotnet\ConditionalApp\obj\Debug\net8.0\ref\ConditionalApp.dll
