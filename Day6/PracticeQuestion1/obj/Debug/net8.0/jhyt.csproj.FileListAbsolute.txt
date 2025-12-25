@@ -1,0 +1,14 @@
+D:\Dotnet\Day6\PracticeQuestion1\obj\Debug\net8.0\jhyt.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dotnet\Day6\PracticeQuestion1\obj\Debug\net8.0\jhyt.AssemblyInfoInputs.cache
+D:\Dotnet\Day6\PracticeQuestion1\obj\Debug\net8.0\jhyt.AssemblyInfo.cs
+D:\Dotnet\Day6\PracticeQuestion1\obj\Debug\net8.0\jhyt.csproj.CoreCompileInputs.cache
+D:\Dotnet\Day6\PracticeQuestion1\bin\Debug\net8.0\jhyt.exe
+D:\Dotnet\Day6\PracticeQuestion1\bin\Debug\net8.0\jhyt.deps.json
+D:\Dotnet\Day6\PracticeQuestion1\bin\Debug\net8.0\jhyt.runtimeconfig.json
+D:\Dotnet\Day6\PracticeQuestion1\bin\Debug\net8.0\jhyt.dll
+D:\Dotnet\Day6\PracticeQuestion1\bin\Debug\net8.0\jhyt.pdb
+D:\Dotnet\Day6\PracticeQuestion1\obj\Debug\net8.0\jhyt.dll
+D:\Dotnet\Day6\PracticeQuestion1\obj\Debug\net8.0\refint\jhyt.dll
+D:\Dotnet\Day6\PracticeQuestion1\obj\Debug\net8.0\jhyt.pdb
+D:\Dotnet\Day6\PracticeQuestion1\obj\Debug\net8.0\jhyt.genruntimeconfig.cache
+D:\Dotnet\Day6\PracticeQuestion1\obj\Debug\net8.0\ref\jhyt.dll
