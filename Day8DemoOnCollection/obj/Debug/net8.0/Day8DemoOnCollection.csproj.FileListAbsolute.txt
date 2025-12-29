@@ -1,0 +1,14 @@
+D:\Dotnet\Day8DemoOnCollection\obj\Debug\net8.0\Day8DemoOnCollection.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dotnet\Day8DemoOnCollection\obj\Debug\net8.0\Day8DemoOnCollection.AssemblyInfoInputs.cache
+D:\Dotnet\Day8DemoOnCollection\obj\Debug\net8.0\Day8DemoOnCollection.AssemblyInfo.cs
+D:\Dotnet\Day8DemoOnCollection\obj\Debug\net8.0\Day8DemoOnCollection.csproj.CoreCompileInputs.cache
+D:\Dotnet\Day8DemoOnCollection\bin\Debug\net8.0\Day8DemoOnCollection.exe
+D:\Dotnet\Day8DemoOnCollection\bin\Debug\net8.0\Day8DemoOnCollection.deps.json
+D:\Dotnet\Day8DemoOnCollection\bin\Debug\net8.0\Day8DemoOnCollection.runtimeconfig.json
+D:\Dotnet\Day8DemoOnCollection\bin\Debug\net8.0\Day8DemoOnCollection.dll
+D:\Dotnet\Day8DemoOnCollection\bin\Debug\net8.0\Day8DemoOnCollection.pdb
+D:\Dotnet\Day8DemoOnCollection\obj\Debug\net8.0\Day8DemoOnCollection.dll
+D:\Dotnet\Day8DemoOnCollection\obj\Debug\net8.0\refint\Day8DemoOnCollection.dll
+D:\Dotnet\Day8DemoOnCollection\obj\Debug\net8.0\Day8DemoOnCollection.pdb
+D:\Dotnet\Day8DemoOnCollection\obj\Debug\net8.0\Day8DemoOnCollection.genruntimeconfig.cache
+D:\Dotnet\Day8DemoOnCollection\obj\Debug\net8.0\ref\Day8DemoOnCollection.dll
