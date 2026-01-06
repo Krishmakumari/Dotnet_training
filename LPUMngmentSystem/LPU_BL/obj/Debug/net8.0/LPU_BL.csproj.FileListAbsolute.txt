@@ -1,0 +1,4 @@
+D:\Dotnet\LPUMngmentSystem\LPU_BL\obj\Debug\net8.0\LPU_BL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dotnet\LPUMngmentSystem\LPU_BL\obj\Debug\net8.0\LPU_BL.AssemblyInfoInputs.cache
+D:\Dotnet\LPUMngmentSystem\LPU_BL\obj\Debug\net8.0\LPU_BL.AssemblyInfo.cs
+D:\Dotnet\LPUMngmentSystem\LPU_BL\obj\Debug\net8.0\LPU_BL.csproj.CoreCompileInputs.cache
