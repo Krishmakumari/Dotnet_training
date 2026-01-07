@@ -1,0 +1,4 @@
+D:\Dotnet\Assessment_7Jan26\obj\Debug\net8.0\Assessment_7Jan26.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dotnet\Assessment_7Jan26\obj\Debug\net8.0\Assessment_7Jan26.AssemblyInfoInputs.cache
+D:\Dotnet\Assessment_7Jan26\obj\Debug\net8.0\Assessment_7Jan26.AssemblyInfo.cs
+D:\Dotnet\Assessment_7Jan26\obj\Debug\net8.0\Assessment_7Jan26.csproj.CoreCompileInputs.cache
