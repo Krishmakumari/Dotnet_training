@@ -1,0 +1,14 @@
+D:\Dotnet\OperatorOverLoadingDemo\bin\Debug\net8.0\OperatorOverLoading.exe
+D:\Dotnet\OperatorOverLoadingDemo\bin\Debug\net8.0\OperatorOverLoading.deps.json
+D:\Dotnet\OperatorOverLoadingDemo\bin\Debug\net8.0\OperatorOverLoading.runtimeconfig.json
+D:\Dotnet\OperatorOverLoadingDemo\bin\Debug\net8.0\OperatorOverLoading.dll
+D:\Dotnet\OperatorOverLoadingDemo\bin\Debug\net8.0\OperatorOverLoading.pdb
+D:\Dotnet\OperatorOverLoadingDemo\obj\Debug\net8.0\OperatorOverLoading.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dotnet\OperatorOverLoadingDemo\obj\Debug\net8.0\OperatorOverLoading.AssemblyInfoInputs.cache
+D:\Dotnet\OperatorOverLoadingDemo\obj\Debug\net8.0\OperatorOverLoading.AssemblyInfo.cs
+D:\Dotnet\OperatorOverLoadingDemo\obj\Debug\net8.0\OperatorOverLoading.csproj.CoreCompileInputs.cache
+D:\Dotnet\OperatorOverLoadingDemo\obj\Debug\net8.0\OperatorOverLoading.dll
+D:\Dotnet\OperatorOverLoadingDemo\obj\Debug\net8.0\refint\OperatorOverLoading.dll
+D:\Dotnet\OperatorOverLoadingDemo\obj\Debug\net8.0\OperatorOverLoading.pdb
+D:\Dotnet\OperatorOverLoadingDemo\obj\Debug\net8.0\OperatorOverLoading.genruntimeconfig.cache
+D:\Dotnet\OperatorOverLoadingDemo\obj\Debug\net8.0\ref\OperatorOverLoading.dll
