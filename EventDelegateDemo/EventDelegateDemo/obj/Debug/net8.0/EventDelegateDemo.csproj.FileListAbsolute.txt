@@ -1,0 +1,14 @@
+D:\Dotnet\EventDelegateDemo\EventDelegateDemo\bin\Debug\net8.0\EventDelegateDemo.exe
+D:\Dotnet\EventDelegateDemo\EventDelegateDemo\bin\Debug\net8.0\EventDelegateDemo.deps.json
+D:\Dotnet\EventDelegateDemo\EventDelegateDemo\bin\Debug\net8.0\EventDelegateDemo.runtimeconfig.json
+D:\Dotnet\EventDelegateDemo\EventDelegateDemo\bin\Debug\net8.0\EventDelegateDemo.dll
+D:\Dotnet\EventDelegateDemo\EventDelegateDemo\bin\Debug\net8.0\EventDelegateDemo.pdb
+D:\Dotnet\EventDelegateDemo\EventDelegateDemo\obj\Debug\net8.0\EventDelegateDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dotnet\EventDelegateDemo\EventDelegateDemo\obj\Debug\net8.0\EventDelegateDemo.AssemblyInfoInputs.cache
+D:\Dotnet\EventDelegateDemo\EventDelegateDemo\obj\Debug\net8.0\EventDelegateDemo.AssemblyInfo.cs
+D:\Dotnet\EventDelegateDemo\EventDelegateDemo\obj\Debug\net8.0\EventDelegateDemo.csproj.CoreCompileInputs.cache
+D:\Dotnet\EventDelegateDemo\EventDelegateDemo\obj\Debug\net8.0\EventDelegateDemo.dll
+D:\Dotnet\EventDelegateDemo\EventDelegateDemo\obj\Debug\net8.0\refint\EventDelegateDemo.dll
+D:\Dotnet\EventDelegateDemo\EventDelegateDemo\obj\Debug\net8.0\EventDelegateDemo.pdb
+D:\Dotnet\EventDelegateDemo\EventDelegateDemo\obj\Debug\net8.0\EventDelegateDemo.genruntimeconfig.cache
+D:\Dotnet\EventDelegateDemo\EventDelegateDemo\obj\Debug\net8.0\ref\EventDelegateDemo.dll
