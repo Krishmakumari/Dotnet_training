@@ -1,0 +1,10 @@
+D:\Dotnet\WinReflectionDemo\WinReflectionDemo\bin\Debug\WinReflectionDemo.exe.config
+D:\Dotnet\WinReflectionDemo\WinReflectionDemo\bin\Debug\WinReflectionDemo.exe
+D:\Dotnet\WinReflectionDemo\WinReflectionDemo\bin\Debug\WinReflectionDemo.pdb
+D:\Dotnet\WinReflectionDemo\WinReflectionDemo\obj\Debug\WinReflectionDemo.csproj.AssemblyReference.cache
+D:\Dotnet\WinReflectionDemo\WinReflectionDemo\obj\Debug\WinReflectionDemo.Form1.resources
+D:\Dotnet\WinReflectionDemo\WinReflectionDemo\obj\Debug\WinReflectionDemo.Properties.Resources.resources
+D:\Dotnet\WinReflectionDemo\WinReflectionDemo\obj\Debug\WinReflectionDemo.csproj.GenerateResource.cache
+D:\Dotnet\WinReflectionDemo\WinReflectionDemo\obj\Debug\WinReflectionDemo.csproj.CoreCompileInputs.cache
+D:\Dotnet\WinReflectionDemo\WinReflectionDemo\obj\Debug\WinReflectionDemo.exe
+D:\Dotnet\WinReflectionDemo\WinReflectionDemo\obj\Debug\WinReflectionDemo.pdb
