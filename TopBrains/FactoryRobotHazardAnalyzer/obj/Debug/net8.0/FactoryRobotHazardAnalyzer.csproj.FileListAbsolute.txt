@@ -1,0 +1,14 @@
+D:\Dotnet\TopBrains\FactoryRobotHazardAnalyzer\bin\Debug\net8.0\FactoryRobotHazardAnalyzer.exe
+D:\Dotnet\TopBrains\FactoryRobotHazardAnalyzer\bin\Debug\net8.0\FactoryRobotHazardAnalyzer.deps.json
+D:\Dotnet\TopBrains\FactoryRobotHazardAnalyzer\bin\Debug\net8.0\FactoryRobotHazardAnalyzer.runtimeconfig.json
+D:\Dotnet\TopBrains\FactoryRobotHazardAnalyzer\bin\Debug\net8.0\FactoryRobotHazardAnalyzer.dll
+D:\Dotnet\TopBrains\FactoryRobotHazardAnalyzer\bin\Debug\net8.0\FactoryRobotHazardAnalyzer.pdb
+D:\Dotnet\TopBrains\FactoryRobotHazardAnalyzer\obj\Debug\net8.0\FactoryRobotHazardAnalyzer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dotnet\TopBrains\FactoryRobotHazardAnalyzer\obj\Debug\net8.0\FactoryRobotHazardAnalyzer.AssemblyInfoInputs.cache
+D:\Dotnet\TopBrains\FactoryRobotHazardAnalyzer\obj\Debug\net8.0\FactoryRobotHazardAnalyzer.AssemblyInfo.cs
+D:\Dotnet\TopBrains\FactoryRobotHazardAnalyzer\obj\Debug\net8.0\FactoryRobotHazardAnalyzer.csproj.CoreCompileInputs.cache
+D:\Dotnet\TopBrains\FactoryRobotHazardAnalyzer\obj\Debug\net8.0\FactoryRobotHazardAnalyzer.dll
+D:\Dotnet\TopBrains\FactoryRobotHazardAnalyzer\obj\Debug\net8.0\refint\FactoryRobotHazardAnalyzer.dll
+D:\Dotnet\TopBrains\FactoryRobotHazardAnalyzer\obj\Debug\net8.0\FactoryRobotHazardAnalyzer.pdb
+D:\Dotnet\TopBrains\FactoryRobotHazardAnalyzer\obj\Debug\net8.0\FactoryRobotHazardAnalyzer.genruntimeconfig.cache
+D:\Dotnet\TopBrains\FactoryRobotHazardAnalyzer\obj\Debug\net8.0\ref\FactoryRobotHazardAnalyzer.dll
