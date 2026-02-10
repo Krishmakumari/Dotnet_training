@@ -1,0 +1,14 @@
+D:\Dotnet\TopBrains\Strings\bin\Debug\net8.0\Strings.exe
+D:\Dotnet\TopBrains\Strings\bin\Debug\net8.0\Strings.deps.json
+D:\Dotnet\TopBrains\Strings\bin\Debug\net8.0\Strings.runtimeconfig.json
+D:\Dotnet\TopBrains\Strings\bin\Debug\net8.0\Strings.dll
+D:\Dotnet\TopBrains\Strings\bin\Debug\net8.0\Strings.pdb
+D:\Dotnet\TopBrains\Strings\obj\Debug\net8.0\Strings.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dotnet\TopBrains\Strings\obj\Debug\net8.0\Strings.AssemblyInfoInputs.cache
+D:\Dotnet\TopBrains\Strings\obj\Debug\net8.0\Strings.AssemblyInfo.cs
+D:\Dotnet\TopBrains\Strings\obj\Debug\net8.0\Strings.csproj.CoreCompileInputs.cache
+D:\Dotnet\TopBrains\Strings\obj\Debug\net8.0\Strings.dll
+D:\Dotnet\TopBrains\Strings\obj\Debug\net8.0\refint\Strings.dll
+D:\Dotnet\TopBrains\Strings\obj\Debug\net8.0\Strings.pdb
+D:\Dotnet\TopBrains\Strings\obj\Debug\net8.0\Strings.genruntimeconfig.cache
+D:\Dotnet\TopBrains\Strings\obj\Debug\net8.0\ref\Strings.dll
