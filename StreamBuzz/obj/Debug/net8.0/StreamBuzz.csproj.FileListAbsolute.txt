@@ -1,0 +1,14 @@
+D:\Dotnet\StreamBuzz\obj\Debug\net8.0\StreamBuzz.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dotnet\StreamBuzz\obj\Debug\net8.0\StreamBuzz.AssemblyInfoInputs.cache
+D:\Dotnet\StreamBuzz\obj\Debug\net8.0\StreamBuzz.AssemblyInfo.cs
+D:\Dotnet\StreamBuzz\obj\Debug\net8.0\StreamBuzz.csproj.CoreCompileInputs.cache
+D:\Dotnet\StreamBuzz\bin\Debug\net8.0\StreamBuzz.exe
+D:\Dotnet\StreamBuzz\bin\Debug\net8.0\StreamBuzz.deps.json
+D:\Dotnet\StreamBuzz\bin\Debug\net8.0\StreamBuzz.runtimeconfig.json
+D:\Dotnet\StreamBuzz\bin\Debug\net8.0\StreamBuzz.dll
+D:\Dotnet\StreamBuzz\bin\Debug\net8.0\StreamBuzz.pdb
+D:\Dotnet\StreamBuzz\obj\Debug\net8.0\StreamBuzz.dll
+D:\Dotnet\StreamBuzz\obj\Debug\net8.0\refint\StreamBuzz.dll
+D:\Dotnet\StreamBuzz\obj\Debug\net8.0\StreamBuzz.pdb
+D:\Dotnet\StreamBuzz\obj\Debug\net8.0\StreamBuzz.genruntimeconfig.cache
+D:\Dotnet\StreamBuzz\obj\Debug\net8.0\ref\StreamBuzz.dll
