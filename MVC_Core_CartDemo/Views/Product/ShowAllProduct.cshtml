@@ -1,0 +1,23 @@
+﻿@model List<MVC_Core_CartDemo.Models.Product>
+
+<h2 style="text-align:center;">Our Products</h2>
+
+<div style="display:flex; flex-wrap:wrap; gap:20px; justify-content:center;">
+
+    @foreach (var item in Model)
+    {
+        <div style="width:250px; border:1px solid #ddd; padding:15px; border-radius:10px; text-align:center; box-shadow:0 2px 5px rgba(0,0,0,0.1);">
+            
+            <img src="@item.ImgUrl" width="200" height="200" style="object-fit:cover; border-radius:8px;" />
+            
+            <h4>@item.Name</h4>
+            
+            <p style="font-weight:bold; color:#e91e63;">
+                ₹@item.Price
+            </p>
+
+        
+    <a href="/Product/AddToCart/@item.ProdId">Add to Cart</a>
+    </div>
+    }
+</div>
