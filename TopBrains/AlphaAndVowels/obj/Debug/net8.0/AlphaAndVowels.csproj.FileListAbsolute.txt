@@ -1,0 +1,14 @@
+D:\Dotnet\TopBrains\AlphaAndVowels\obj\Debug\net8.0\AlphaAndVowels.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dotnet\TopBrains\AlphaAndVowels\obj\Debug\net8.0\AlphaAndVowels.AssemblyInfoInputs.cache
+D:\Dotnet\TopBrains\AlphaAndVowels\obj\Debug\net8.0\AlphaAndVowels.AssemblyInfo.cs
+D:\Dotnet\TopBrains\AlphaAndVowels\obj\Debug\net8.0\AlphaAndVowels.csproj.CoreCompileInputs.cache
+D:\Dotnet\TopBrains\AlphaAndVowels\bin\Debug\net8.0\AlphaAndVowels.exe
+D:\Dotnet\TopBrains\AlphaAndVowels\bin\Debug\net8.0\AlphaAndVowels.deps.json
+D:\Dotnet\TopBrains\AlphaAndVowels\bin\Debug\net8.0\AlphaAndVowels.runtimeconfig.json
+D:\Dotnet\TopBrains\AlphaAndVowels\bin\Debug\net8.0\AlphaAndVowels.dll
+D:\Dotnet\TopBrains\AlphaAndVowels\bin\Debug\net8.0\AlphaAndVowels.pdb
+D:\Dotnet\TopBrains\AlphaAndVowels\obj\Debug\net8.0\AlphaAndVowels.dll
+D:\Dotnet\TopBrains\AlphaAndVowels\obj\Debug\net8.0\refint\AlphaAndVowels.dll
+D:\Dotnet\TopBrains\AlphaAndVowels\obj\Debug\net8.0\AlphaAndVowels.pdb
+D:\Dotnet\TopBrains\AlphaAndVowels\obj\Debug\net8.0\AlphaAndVowels.genruntimeconfig.cache
+D:\Dotnet\TopBrains\AlphaAndVowels\obj\Debug\net8.0\ref\AlphaAndVowels.dll

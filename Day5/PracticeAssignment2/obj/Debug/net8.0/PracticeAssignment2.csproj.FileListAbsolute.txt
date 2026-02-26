@@ -1,0 +1,14 @@
+C:\Users\Admin\Dotnet\PracticeAssignment2\obj\Debug\net8.0\PracticeAssignment2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Dotnet\PracticeAssignment2\obj\Debug\net8.0\PracticeAssignment2.AssemblyInfoInputs.cache
+C:\Users\Admin\Dotnet\PracticeAssignment2\obj\Debug\net8.0\PracticeAssignment2.AssemblyInfo.cs
+C:\Users\Admin\Dotnet\PracticeAssignment2\obj\Debug\net8.0\PracticeAssignment2.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Dotnet\PracticeAssignment2\bin\Debug\net8.0\PracticeAssignment2.exe
+C:\Users\Admin\Dotnet\PracticeAssignment2\bin\Debug\net8.0\PracticeAssignment2.deps.json
+C:\Users\Admin\Dotnet\PracticeAssignment2\bin\Debug\net8.0\PracticeAssignment2.runtimeconfig.json
+C:\Users\Admin\Dotnet\PracticeAssignment2\bin\Debug\net8.0\PracticeAssignment2.dll
+C:\Users\Admin\Dotnet\PracticeAssignment2\bin\Debug\net8.0\PracticeAssignment2.pdb
+C:\Users\Admin\Dotnet\PracticeAssignment2\obj\Debug\net8.0\PracticeAssignment2.dll
+C:\Users\Admin\Dotnet\PracticeAssignment2\obj\Debug\net8.0\refint\PracticeAssignment2.dll
+C:\Users\Admin\Dotnet\PracticeAssignment2\obj\Debug\net8.0\PracticeAssignment2.pdb
+C:\Users\Admin\Dotnet\PracticeAssignment2\obj\Debug\net8.0\PracticeAssignment2.genruntimeconfig.cache
+C:\Users\Admin\Dotnet\PracticeAssignment2\obj\Debug\net8.0\ref\PracticeAssignment2.dll

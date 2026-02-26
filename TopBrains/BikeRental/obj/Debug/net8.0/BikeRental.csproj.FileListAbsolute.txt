@@ -1,0 +1,14 @@
+D:\Dotnet\BikeRental\obj\Debug\net8.0\BikeRental.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dotnet\BikeRental\obj\Debug\net8.0\BikeRental.AssemblyInfoInputs.cache
+D:\Dotnet\BikeRental\obj\Debug\net8.0\BikeRental.AssemblyInfo.cs
+D:\Dotnet\BikeRental\obj\Debug\net8.0\BikeRental.csproj.CoreCompileInputs.cache
+D:\Dotnet\BikeRental\bin\Debug\net8.0\BikeRental.exe
+D:\Dotnet\BikeRental\bin\Debug\net8.0\BikeRental.deps.json
+D:\Dotnet\BikeRental\bin\Debug\net8.0\BikeRental.runtimeconfig.json
+D:\Dotnet\BikeRental\bin\Debug\net8.0\BikeRental.dll
+D:\Dotnet\BikeRental\bin\Debug\net8.0\BikeRental.pdb
+D:\Dotnet\BikeRental\obj\Debug\net8.0\BikeRental.dll
+D:\Dotnet\BikeRental\obj\Debug\net8.0\refint\BikeRental.dll
+D:\Dotnet\BikeRental\obj\Debug\net8.0\BikeRental.pdb
+D:\Dotnet\BikeRental\obj\Debug\net8.0\BikeRental.genruntimeconfig.cache
+D:\Dotnet\BikeRental\obj\Debug\net8.0\ref\BikeRental.dll

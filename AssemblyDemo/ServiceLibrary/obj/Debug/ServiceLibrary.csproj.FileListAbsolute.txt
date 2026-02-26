@@ -1,0 +1,6 @@
+D:\Dotnet\AssemblyDemo\ServiceLibrary\obj\Debug\ServiceLibrary.csproj.AssemblyReference.cache
+D:\Dotnet\AssemblyDemo\ServiceLibrary\obj\Debug\ServiceLibrary.csproj.CoreCompileInputs.cache
+D:\Dotnet\AssemblyDemo\ServiceLibrary\bin\Debug\ServiceLibrary.dll
+D:\Dotnet\AssemblyDemo\ServiceLibrary\bin\Debug\ServiceLibrary.pdb
+D:\Dotnet\AssemblyDemo\ServiceLibrary\obj\Debug\ServiceLibrary.dll
+D:\Dotnet\AssemblyDemo\ServiceLibrary\obj\Debug\ServiceLibrary.pdb

@@ -1,0 +1,10 @@
+D:\Dotnet\SerializationDemo\SerializationDemo\bin\Debug\SerializationDemo.exe.config
+D:\Dotnet\SerializationDemo\SerializationDemo\bin\Debug\SerializationDemo.exe
+D:\Dotnet\SerializationDemo\SerializationDemo\bin\Debug\SerializationDemo.pdb
+D:\Dotnet\SerializationDemo\SerializationDemo\obj\Debug\SerializationDemo.csproj.AssemblyReference.cache
+D:\Dotnet\SerializationDemo\SerializationDemo\obj\Debug\SerializationDemo.Form1.resources
+D:\Dotnet\SerializationDemo\SerializationDemo\obj\Debug\SerializationDemo.Properties.Resources.resources
+D:\Dotnet\SerializationDemo\SerializationDemo\obj\Debug\SerializationDemo.csproj.GenerateResource.cache
+D:\Dotnet\SerializationDemo\SerializationDemo\obj\Debug\SerializationDemo.csproj.CoreCompileInputs.cache
+D:\Dotnet\SerializationDemo\SerializationDemo\obj\Debug\SerializationDemo.exe
+D:\Dotnet\SerializationDemo\SerializationDemo\obj\Debug\SerializationDemo.pdb

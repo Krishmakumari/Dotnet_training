@@ -1,0 +1,4 @@
+D:\Dotnet\LPUMngmentSystem\LPU_Entity\obj\Debug\net8.0\LPU_Entity.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dotnet\LPUMngmentSystem\LPU_Entity\obj\Debug\net8.0\LPU_Entity.AssemblyInfoInputs.cache
+D:\Dotnet\LPUMngmentSystem\LPU_Entity\obj\Debug\net8.0\LPU_Entity.AssemblyInfo.cs
+D:\Dotnet\LPUMngmentSystem\LPU_Entity\obj\Debug\net8.0\LPU_Entity.csproj.CoreCompileInputs.cache

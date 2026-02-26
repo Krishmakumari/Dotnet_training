@@ -1,0 +1,14 @@
+C:\Users\Admin\Dotnet\Day3Demo\StudnetManagementSystem\obj\Debug\net8.0\StudnetManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Dotnet\Day3Demo\StudnetManagementSystem\obj\Debug\net8.0\StudnetManagementSystem.AssemblyInfoInputs.cache
+C:\Users\Admin\Dotnet\Day3Demo\StudnetManagementSystem\obj\Debug\net8.0\StudnetManagementSystem.AssemblyInfo.cs
+C:\Users\Admin\Dotnet\Day3Demo\StudnetManagementSystem\obj\Debug\net8.0\StudnetManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Dotnet\Day3Demo\StudnetManagementSystem\bin\Debug\net8.0\StudnetManagementSystem.exe
+C:\Users\Admin\Dotnet\Day3Demo\StudnetManagementSystem\bin\Debug\net8.0\StudnetManagementSystem.deps.json
+C:\Users\Admin\Dotnet\Day3Demo\StudnetManagementSystem\bin\Debug\net8.0\StudnetManagementSystem.runtimeconfig.json
+C:\Users\Admin\Dotnet\Day3Demo\StudnetManagementSystem\bin\Debug\net8.0\StudnetManagementSystem.dll
+C:\Users\Admin\Dotnet\Day3Demo\StudnetManagementSystem\bin\Debug\net8.0\StudnetManagementSystem.pdb
+C:\Users\Admin\Dotnet\Day3Demo\StudnetManagementSystem\obj\Debug\net8.0\StudnetManagementSystem.dll
+C:\Users\Admin\Dotnet\Day3Demo\StudnetManagementSystem\obj\Debug\net8.0\refint\StudnetManagementSystem.dll
+C:\Users\Admin\Dotnet\Day3Demo\StudnetManagementSystem\obj\Debug\net8.0\StudnetManagementSystem.pdb
+C:\Users\Admin\Dotnet\Day3Demo\StudnetManagementSystem\obj\Debug\net8.0\StudnetManagementSystem.genruntimeconfig.cache
+C:\Users\Admin\Dotnet\Day3Demo\StudnetManagementSystem\obj\Debug\net8.0\ref\StudnetManagementSystem.dll

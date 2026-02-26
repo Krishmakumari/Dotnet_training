@@ -1,0 +1,14 @@
+D:\Dotnet\PracticeAssignment\obj\Debug\net8.0\PracticeAssignment.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dotnet\PracticeAssignment\obj\Debug\net8.0\PracticeAssignment.AssemblyInfoInputs.cache
+D:\Dotnet\PracticeAssignment\obj\Debug\net8.0\PracticeAssignment.AssemblyInfo.cs
+D:\Dotnet\PracticeAssignment\obj\Debug\net8.0\PracticeAssignment.csproj.CoreCompileInputs.cache
+D:\Dotnet\PracticeAssignment\bin\Debug\net8.0\PracticeAssignment.exe
+D:\Dotnet\PracticeAssignment\bin\Debug\net8.0\PracticeAssignment.deps.json
+D:\Dotnet\PracticeAssignment\bin\Debug\net8.0\PracticeAssignment.runtimeconfig.json
+D:\Dotnet\PracticeAssignment\bin\Debug\net8.0\PracticeAssignment.dll
+D:\Dotnet\PracticeAssignment\bin\Debug\net8.0\PracticeAssignment.pdb
+D:\Dotnet\PracticeAssignment\obj\Debug\net8.0\PracticeAssignment.dll
+D:\Dotnet\PracticeAssignment\obj\Debug\net8.0\refint\PracticeAssignment.dll
+D:\Dotnet\PracticeAssignment\obj\Debug\net8.0\PracticeAssignment.pdb
+D:\Dotnet\PracticeAssignment\obj\Debug\net8.0\PracticeAssignment.genruntimeconfig.cache
+D:\Dotnet\PracticeAssignment\obj\Debug\net8.0\ref\PracticeAssignment.dll

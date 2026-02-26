@@ -1,0 +1,4 @@
+D:\Dotnet\LPUMngmentSystem\LPU_Exceptions\obj\Debug\net8.0\LPU_Exceptions.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dotnet\LPUMngmentSystem\LPU_Exceptions\obj\Debug\net8.0\LPU_Exceptions.AssemblyInfoInputs.cache
+D:\Dotnet\LPUMngmentSystem\LPU_Exceptions\obj\Debug\net8.0\LPU_Exceptions.AssemblyInfo.cs
+D:\Dotnet\LPUMngmentSystem\LPU_Exceptions\obj\Debug\net8.0\LPU_Exceptions.csproj.CoreCompileInputs.cache

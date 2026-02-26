@@ -1,0 +1,14 @@
+D:\Dotnet\TopBrains\ProductOfArrayExeptSelf\obj\Debug\net8.0\ProductOfArrayExeptSelf.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dotnet\TopBrains\ProductOfArrayExeptSelf\obj\Debug\net8.0\ProductOfArrayExeptSelf.AssemblyInfoInputs.cache
+D:\Dotnet\TopBrains\ProductOfArrayExeptSelf\obj\Debug\net8.0\ProductOfArrayExeptSelf.AssemblyInfo.cs
+D:\Dotnet\TopBrains\ProductOfArrayExeptSelf\obj\Debug\net8.0\ProductOfArrayExeptSelf.csproj.CoreCompileInputs.cache
+D:\Dotnet\TopBrains\ProductOfArrayExeptSelf\bin\Debug\net8.0\ProductOfArrayExeptSelf.exe
+D:\Dotnet\TopBrains\ProductOfArrayExeptSelf\bin\Debug\net8.0\ProductOfArrayExeptSelf.deps.json
+D:\Dotnet\TopBrains\ProductOfArrayExeptSelf\bin\Debug\net8.0\ProductOfArrayExeptSelf.runtimeconfig.json
+D:\Dotnet\TopBrains\ProductOfArrayExeptSelf\bin\Debug\net8.0\ProductOfArrayExeptSelf.dll
+D:\Dotnet\TopBrains\ProductOfArrayExeptSelf\bin\Debug\net8.0\ProductOfArrayExeptSelf.pdb
+D:\Dotnet\TopBrains\ProductOfArrayExeptSelf\obj\Debug\net8.0\ProductOfArrayExeptSelf.dll
+D:\Dotnet\TopBrains\ProductOfArrayExeptSelf\obj\Debug\net8.0\refint\ProductOfArrayExeptSelf.dll
+D:\Dotnet\TopBrains\ProductOfArrayExeptSelf\obj\Debug\net8.0\ProductOfArrayExeptSelf.pdb
+D:\Dotnet\TopBrains\ProductOfArrayExeptSelf\obj\Debug\net8.0\ProductOfArrayExeptSelf.genruntimeconfig.cache
+D:\Dotnet\TopBrains\ProductOfArrayExeptSelf\obj\Debug\net8.0\ref\ProductOfArrayExeptSelf.dll
