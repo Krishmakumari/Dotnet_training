@@ -1,0 +1,83 @@
+﻿@model FlightSearchEngine.Models.SearchViewModel
+
+@{
+    ViewData["Title"] = "Search Flights";
+}
+
+<h2>Search Flights</h2>
+
+<div asp-validation-summary="All" style="color:red"></div>
+
+<form asp-action="SearchFlights" method="post">
+
+    <div>
+        <label>Source</label>
+        <select asp-for="Source" asp-items="Model.SourceList">
+            <option value="">-- Select Source --</option>
+        </select>
+        <span asp-validation-for="Source" style="color:red"></span>
+    </div>
+
+    <br />
+
+    <div>
+        <label>Destination</label>
+        <select asp-for="Destination" asp-items="Model.DestinationList">
+            <option value="">-- Select Destination --</option>
+        </select>
+        <span asp-validation-for="Destination" style="color:red"></span>
+    </div>
+
+    <br />
+
+    <div>
+        <label>Number Of Persons</label>
+        <input asp-for="NumberOfPersons" type="number" min="1" max="10" value="1" />
+        <span asp-validation-for="NumberOfPersons" style="color:red"></span>
+    </div>
+
+    <br />
+
+    <button type="submit">Search Flights</button>
+
+</form>
+
+<br />
+
+<form asp-action="SearchFlightsWithHotels" method="post">
+
+    <div>
+        <label>Source</label>
+        <select asp-for="Source" asp-items="Model.SourceList">
+            <option value="">-- Select Source --</option>
+        </select>
+        <span asp-validation-for="Source" style="color:red"></span>
+    </div>
+
+    <br />
+
+    <div>
+        <label>Destination</label>
+        <select asp-for="Destination" asp-items="Model.DestinationList">
+            <option value="">-- Select Destination --</option>
+        </select>
+        <span asp-validation-for="Destination" style="color:red"></span>
+    </div>
+
+    <br />
+
+    <div>
+        <label>Number Of Persons</label>
+        <input asp-for="NumberOfPersons" type="number" min="1" max="10" value="1" />
+        <span asp-validation-for="NumberOfPersons" style="color:red"></span>
+    </div>
+
+    <br />
+
+    <button type="submit">Search Flights + Hotels</button>
+
+</form>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

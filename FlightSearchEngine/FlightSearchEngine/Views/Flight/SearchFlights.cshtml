@@ -1,0 +1,42 @@
+@model IEnumerable<FlightSearchEngine.Models.FlightResult>
+
+@{
+    ViewData["Title"] = "Flight Search Results";
+}
+
+<h2>Flight Search Results</h2>
+
+@if (Model != null && Model.Any())
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Flight ID</th>
+                <th>Flight Name</th>
+                <th>Flight Type</th>
+                <th>Source</th>
+                <th>Destination</th>
+                <th>Total Cost</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@item.FlightId</td>
+                    <td>@item.FlightName</td>
+                    <td>@item.FlightType</td>
+                    <td>@item.Source</td>
+                    <td>@item.Destination</td>
+                    <td>@item.TotalCost</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+else
+{
+    <p>No flights found.</p>
+}
+
+<a asp-action="Index">Back to Search</a>
