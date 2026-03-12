@@ -1,0 +1,14 @@
+D:\Dotnet\WordWand\bin\Debug\net8.0\WordWand.exe
+D:\Dotnet\WordWand\bin\Debug\net8.0\WordWand.deps.json
+D:\Dotnet\WordWand\bin\Debug\net8.0\WordWand.runtimeconfig.json
+D:\Dotnet\WordWand\bin\Debug\net8.0\WordWand.dll
+D:\Dotnet\WordWand\bin\Debug\net8.0\WordWand.pdb
+D:\Dotnet\WordWand\obj\Debug\net8.0\WordWand.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dotnet\WordWand\obj\Debug\net8.0\WordWand.AssemblyInfoInputs.cache
+D:\Dotnet\WordWand\obj\Debug\net8.0\WordWand.AssemblyInfo.cs
+D:\Dotnet\WordWand\obj\Debug\net8.0\WordWand.csproj.CoreCompileInputs.cache
+D:\Dotnet\WordWand\obj\Debug\net8.0\WordWand.dll
+D:\Dotnet\WordWand\obj\Debug\net8.0\refint\WordWand.dll
+D:\Dotnet\WordWand\obj\Debug\net8.0\WordWand.pdb
+D:\Dotnet\WordWand\obj\Debug\net8.0\WordWand.genruntimeconfig.cache
+D:\Dotnet\WordWand\obj\Debug\net8.0\ref\WordWand.dll

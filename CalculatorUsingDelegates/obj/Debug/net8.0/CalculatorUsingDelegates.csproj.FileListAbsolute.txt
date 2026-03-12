@@ -1,0 +1,14 @@
+D:\Dotnet\CalculatorUsingDelegates\obj\Debug\net8.0\CalculatorUsingDelegates.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dotnet\CalculatorUsingDelegates\obj\Debug\net8.0\CalculatorUsingDelegates.AssemblyInfoInputs.cache
+D:\Dotnet\CalculatorUsingDelegates\obj\Debug\net8.0\CalculatorUsingDelegates.AssemblyInfo.cs
+D:\Dotnet\CalculatorUsingDelegates\obj\Debug\net8.0\CalculatorUsingDelegates.csproj.CoreCompileInputs.cache
+D:\Dotnet\CalculatorUsingDelegates\bin\Debug\net8.0\CalculatorUsingDelegates.exe
+D:\Dotnet\CalculatorUsingDelegates\bin\Debug\net8.0\CalculatorUsingDelegates.deps.json
+D:\Dotnet\CalculatorUsingDelegates\bin\Debug\net8.0\CalculatorUsingDelegates.runtimeconfig.json
+D:\Dotnet\CalculatorUsingDelegates\bin\Debug\net8.0\CalculatorUsingDelegates.dll
+D:\Dotnet\CalculatorUsingDelegates\bin\Debug\net8.0\CalculatorUsingDelegates.pdb
+D:\Dotnet\CalculatorUsingDelegates\obj\Debug\net8.0\CalculatorUsingDelegates.dll
+D:\Dotnet\CalculatorUsingDelegates\obj\Debug\net8.0\refint\CalculatorUsingDelegates.dll
+D:\Dotnet\CalculatorUsingDelegates\obj\Debug\net8.0\CalculatorUsingDelegates.pdb
+D:\Dotnet\CalculatorUsingDelegates\obj\Debug\net8.0\CalculatorUsingDelegates.genruntimeconfig.cache
+D:\Dotnet\CalculatorUsingDelegates\obj\Debug\net8.0\ref\CalculatorUsingDelegates.dll

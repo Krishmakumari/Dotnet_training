@@ -1,0 +1,14 @@
+D:\Dotnet\LogisticsShipmentSystem\obj\Debug\net8.0\LogisticsShipmentSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dotnet\LogisticsShipmentSystem\obj\Debug\net8.0\LogisticsShipmentSystem.AssemblyInfoInputs.cache
+D:\Dotnet\LogisticsShipmentSystem\obj\Debug\net8.0\LogisticsShipmentSystem.AssemblyInfo.cs
+D:\Dotnet\LogisticsShipmentSystem\obj\Debug\net8.0\LogisticsShipmentSystem.csproj.CoreCompileInputs.cache
+D:\Dotnet\LogisticsShipmentSystem\bin\Debug\net8.0\LogisticsShipmentSystem.exe
+D:\Dotnet\LogisticsShipmentSystem\bin\Debug\net8.0\LogisticsShipmentSystem.deps.json
+D:\Dotnet\LogisticsShipmentSystem\bin\Debug\net8.0\LogisticsShipmentSystem.runtimeconfig.json
+D:\Dotnet\LogisticsShipmentSystem\bin\Debug\net8.0\LogisticsShipmentSystem.dll
+D:\Dotnet\LogisticsShipmentSystem\bin\Debug\net8.0\LogisticsShipmentSystem.pdb
+D:\Dotnet\LogisticsShipmentSystem\obj\Debug\net8.0\LogisticsShipmentSystem.dll
+D:\Dotnet\LogisticsShipmentSystem\obj\Debug\net8.0\refint\LogisticsShipmentSystem.dll
+D:\Dotnet\LogisticsShipmentSystem\obj\Debug\net8.0\LogisticsShipmentSystem.pdb
+D:\Dotnet\LogisticsShipmentSystem\obj\Debug\net8.0\LogisticsShipmentSystem.genruntimeconfig.cache
+D:\Dotnet\LogisticsShipmentSystem\obj\Debug\net8.0\ref\LogisticsShipmentSystem.dll

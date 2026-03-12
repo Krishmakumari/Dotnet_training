@@ -1,0 +1,10 @@
+D:\Dotnet\AssemblyDemo\UILogic\obj\Debug\UILogic.csproj.AssemblyReference.cache
+D:\Dotnet\AssemblyDemo\UILogic\obj\Debug\UILogic.csproj.CoreCompileInputs.cache
+D:\Dotnet\AssemblyDemo\UILogic\bin\Debug\UILogic.exe.config
+D:\Dotnet\AssemblyDemo\UILogic\bin\Debug\UILogic.exe
+D:\Dotnet\AssemblyDemo\UILogic\bin\Debug\UILogic.pdb
+D:\Dotnet\AssemblyDemo\UILogic\bin\Debug\ServiceLibrary.dll
+D:\Dotnet\AssemblyDemo\UILogic\bin\Debug\ServiceLibrary.pdb
+D:\Dotnet\AssemblyDemo\UILogic\obj\Debug\UILogic.csproj.Up2Date
+D:\Dotnet\AssemblyDemo\UILogic\obj\Debug\UILogic.exe
+D:\Dotnet\AssemblyDemo\UILogic\obj\Debug\UILogic.pdb
