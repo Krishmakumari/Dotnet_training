@@ -1,0 +1,34 @@
+@model IEnumerable<StudentMngmentSystem.Models.Student>
+
+<p>
+    <a asp-action="Create" class="btn btn-primary">Create New</a>
+    <a asp-controller="TeacherDashboard" asp-action="Index" class="btn btn-secondary">Back to Dashboard</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Full Name</th>
+            <th>Email</th>
+            <th>Department</th>
+            <th>Course</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+    @foreach(var item in Model)
+    {
+        <tr>
+            <td>@item.StudentId</td>
+            <td>@item.StudentName</td>
+            <td>@item.Email</td>
+            <td>@item.Department?.DepartmentName</td>
+            <td>@item.Course?.CourseName</td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.StudentId" class="btn btn-sm btn-secondary">Edit</a>
+                <a asp-action="Delete" asp-route-id="@item.StudentId" class="btn btn-sm btn-danger">Delete</a>
+            </td>
+        </tr>
+    }
+    </tbody>
+</table>
