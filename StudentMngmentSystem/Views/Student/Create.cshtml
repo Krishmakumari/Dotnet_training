@@ -1,0 +1,30 @@
+@model StudentMngmentSystem.Models.Student
+
+<form asp-action="Create" method="post">
+    <div class="mb-3">
+        <label asp-for="StudentName" class="form-label"></label>
+        <input asp-for="StudentName" class="form-control" />
+    </div>
+    <div class="mb-3">
+        <label asp-for="Email" class="form-label"></label>
+        <input asp-for="Email" class="form-control" />
+    </div>
+    <div class="mb-3">
+        <label asp-for="PhoneNumber" class="form-label"></label>
+        <input asp-for="PhoneNumber" class="form-control" />
+    </div>
+    <div class="mb-3">
+        <label asp-for="Address" class="form-label"></label>
+        <input asp-for="Address" class="form-control" />
+    </div>
+    <div class="mb-3">
+        <label asp-for="DepartmentId" class="form-label"></label>
+        <select asp-for="DepartmentId" class="form-select" asp-items="ViewBag.DepartmentId"></select>
+    </div>
+    <div class="mb-3">
+        <label asp-for="CourseId" class="form-label"></label>
+        <select asp-for="CourseId" class="form-select" asp-items="ViewBag.CourseId"></select>
+    </div>
+    <button type="submit" class="btn btn-primary">Create</button>
+</form>
+<a asp-action="Index" asp-controller="Student" class="btn btn-secondary mt-2">Back to List</a>

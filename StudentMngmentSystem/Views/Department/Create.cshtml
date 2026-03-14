@@ -1,0 +1,15 @@
+@model StudentMngmentSystem.Models.Department
+
+<form asp-action="Create" method="post">
+    <div class="mb-3">
+        <label asp-for="DepartmentName" class="form-label"></label>
+        <input asp-for="DepartmentName" class="form-control" />
+        <span asp-validation-for="DepartmentName" class="text-danger"></span>
+    </div>
+    <div class="mb-3">
+        <label asp-for="Description" class="form-label"></label>
+        <textarea asp-for="Description" class="form-control"></textarea>
+    </div>
+    <button type="submit" class="btn btn-primary">Create</button>
+</form>
+<a asp-action="Index" class="btn btn-secondary mt-2">Back to List</a>

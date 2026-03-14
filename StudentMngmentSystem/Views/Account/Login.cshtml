@@ -1,0 +1,22 @@
+@model StudentMngmentSystem.ViewModels.LoginViewModel
+
+<h2>Login</h2>
+@if (ViewBag.Message != null)
+{
+    <div class="alert alert-danger">@ViewBag.Message</div>
+}
+<form asp-action="Login" method="post">
+    <div class="mb-3">
+        <label asp-for="Email" class="form-label"></label>
+        <input asp-for="Email" class="form-control" />
+    </div>
+    <div class="mb-3">
+        <label asp-for="Password" class="form-label"></label>
+        <input asp-for="Password" type="password" class="form-control" />
+    </div>
+    <button type="submit" class="btn btn-primary">Login</button>
+    <a asp-action="Register" class="btn btn-link">Don't have an account? Register</a>
+</form>
+<div class="alert alert-info mt-3">
+    <strong>Students:</strong> Register using the same email your teacher used when creating your student record.
+</div>
