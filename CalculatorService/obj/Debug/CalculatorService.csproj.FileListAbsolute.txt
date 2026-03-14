@@ -1,0 +1,6 @@
+D:\Dotnet\CodeForUnitTesting\CalculatorService\bin\Debug\CalculatorService.dll
+D:\Dotnet\CodeForUnitTesting\CalculatorService\bin\Debug\CalculatorService.pdb
+D:\Dotnet\CodeForUnitTesting\CalculatorService\obj\Debug\CalculatorService.csproj.AssemblyReference.cache
+D:\Dotnet\CodeForUnitTesting\CalculatorService\obj\Debug\CalculatorService.csproj.CoreCompileInputs.cache
+D:\Dotnet\CodeForUnitTesting\CalculatorService\obj\Debug\CalculatorService.dll
+D:\Dotnet\CodeForUnitTesting\CalculatorService\obj\Debug\CalculatorService.pdb
