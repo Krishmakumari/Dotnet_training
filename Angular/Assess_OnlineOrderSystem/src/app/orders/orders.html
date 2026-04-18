@@ -1,0 +1,18 @@
+<h2>Orders List</h2>
+
+<table>
+  <tr>
+    <th>ID</th>
+    <th>Price</th>
+    <th>Date</th>
+    <th>Status</th>
+  </tr>
+  @for (order of orders; track order.id) {
+    <tr>
+      <td>{{ order.id }}</td>
+      <td>{{ order.price | currency:'INR':'symbol':'1.0-0' }}</td>
+      <td>{{ order.date | date:'medium' }}</td>
+      <td>{{ order.status | orderStatus }}</td>
+    </tr>
+  }
+</table>
